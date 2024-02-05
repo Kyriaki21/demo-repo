@@ -4,5 +4,5 @@ import "fmt"
 
 func main()
 {
-	var name string = "Jeff"
+	fmt.Println("Hello world! This is my first GO Programme!")
 }
